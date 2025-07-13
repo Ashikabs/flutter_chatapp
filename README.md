@@ -13,7 +13,7 @@
 
 A real-time messaging app built using Flutter and Firebase.  
 It allows users to sign up, log in, and chat instantly.  
-Messages are stored in Firebase Firestore and appear live on all devices.  
+Messages are stored in Firebase Firestore 
 The UI is simple, clean, and mobile-friendly.  
 Great for learning how Firebase works with Flutter in real-world apps.  
 It also includes user authentication and message sync.  
