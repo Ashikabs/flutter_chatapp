@@ -1,13 +1,13 @@
  🔐 Login Screen  
 <img src="images/loginpage.jpg" width="350"/>
  🏡 HomeScreen 
-<img src="images/homepage.jpg" width="250"/>
+<img src="images/homepage.jpg" width="350"/>
 💬 ChatScreen
-<img src="images/chatpage.jpg" width="250"/>
+<img src="images/chatpage.jpg" width="350"/>
 🌙 darkmode Screen 
-<img src="images/darkmode.jpg" width="250"/>
+<img src="images/darkmode.jpg" width="350"/>
 🌙💬 darkchat Screen
-<img src="images/darkmodechat.jpg" width="250"/>
+<img src="images/darkmodechat.jpg" width="350"/>
 
 # 💬 Chat Application
 
