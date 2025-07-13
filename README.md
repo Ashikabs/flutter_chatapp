@@ -1,3 +1,14 @@
+### 🔐 Login Screen  
+<img src="images/loginpage.jpg" width="250"/>
+### 🔐 HomeScreen 
+<img src="images/homepage.jpg" width="250"/>
+### 🔐  ChatScreen
+<img src="images/chatpage.jpg" width="250"/>
+### 🔐 darkmode Screen 
+<img src="images/darkmode.jpg" width="250"/>
+### 🔐 darkchat Screen
+<img src="images/darkmodechat.jpg" width="250"/>
+
 # 💬 Chat Application
 
 A real-time messaging app built using Flutter and Firebase.  
@@ -61,5 +72,7 @@ flutter pub get
 # - Download `google-services.json` and put it inside android/app/
 
 # Step 5: Run the app
+
 flutter run
+
 
