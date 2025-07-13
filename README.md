@@ -1,7 +1,11 @@
  🔐 Login Screen  
 <img src="images/loginpage.jpg" width="350"/>
+
+
  🏡 HomeScreen 
 <img src="images/homepage.jpg" width="350"/>
+
+
 💬 ChatScreen
 <img src="images/chatpage.jpg" width="350"/>
 🌙 darkmode Screen 
