@@ -17,8 +17,6 @@ Messages are stored in Firebase Firestore
 The UI is simple, clean, and mobile-friendly.  
 Great for learning how Firebase works with Flutter in real-world apps.  
 It also includes user authentication and message sync.  
-Built as part of a personal learning journey.
-
 ---
 
 ## ✨ Features
